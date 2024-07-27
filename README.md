@@ -28,4 +28,4 @@
 You can reach me at the email in my github profile. Some other places you can find me:
 
 [<img src="./assets/LinkedIn.png" height="40em" align="center" alt="Follow Kris on LinkedIn" title="Follow Kris on LinkedIn"/>](https://www.linkedin.com/in/kris-solanki-720b1a263)
-[<img src="./assets/twitter.png" height="40em" align="center" alt="Follow Kris on Twitter" title="Follow Kris on Twitter"/>](https://twitter.com/solanki_kr61454?t=tFnaGyEZ6p9L4vs5mxsUow&s=08)
+[<img src="./assets/Twitter.png" height="40em" align="center" alt="Follow Kris on Twitter" title="Follow Kris on Twitter"/>](https://twitter.com/solanki_kr61454?t=tFnaGyEZ6p9L4vs5mxsUow&s=08)
