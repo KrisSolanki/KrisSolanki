@@ -4,7 +4,7 @@
 ## 📖 About Me
 
 -   🖥 Software Developer willing to learn anything and everything
--   ✨ Visit my portfolio and access all my projects [here](https://krissolanki.netlify.app/).
+-   ✨ Visit my portfolio and access all my projects [here](https://krissolanki.vercel.app/).
 
 ## 🎒 My Skills
 
